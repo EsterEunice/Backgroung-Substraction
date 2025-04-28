@@ -1,5 +1,3 @@
-#Tugas PCIT | Ester Eunice Halim | 2201020009
-
 import numpy as np
 import cv2 as cv
 cap = cv.VideoCapture(r'E:\Kuliah\Semester 6\citra\background substraction\vtest.mp4')
